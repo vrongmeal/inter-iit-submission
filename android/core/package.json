@@ -1,0 +1,36 @@
+{
+  "name": "shards-dashboard-lite-vue",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "lint": "vue-cli-service lint",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "chart.js": "^2.7.2",
+    "jquery": "^3.4.1",
+    "quill": "^1.3.6",
+    "randomcolor": "^0.5.4",
+    "shards-ui": "^3.0.0",
+    "shards-vue": "^1.0.4",
+    "sweetalert2": "^9.5.3",
+    "vue": "^2.5.17",
+    "vue-carousel": "^0.18.0",
+    "vue-randomcolor": "^1.0.4",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.1.2"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.1.0",
+    "@vue/cli-plugin-babel": "^3.0.3",
+    "@vue/cli-plugin-eslint": "^3.0.3",
+    "@vue/cli-service": "^4.1.1",
+    "@vue/eslint-config-airbnb": "^3.0.3",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1",
+    "vue-template-compiler": "^2.5.17"
+  }
+}
